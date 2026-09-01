@@ -1,0 +1,104 @@
+{
+    "2019": [
+        {
+            "name": "Mint Emoti Heads",
+            "size": "10mm",
+            "description": "A revamped version of our original mint washi tape and the first of our Emoti Heads washi tape series! This is a 'permanent' roll that gets restocked repeatedly every few months so be on the lookout!",
+            "image": "mint-emoti-heads"
+        },
+        {
+            "name": "Classic Animal Onesies",
+            "size": "10mm",
+            "description": "We introduced our first 10mm washi line on Black Friday! A thinner version of our Classic Animal Onesies washi tape.",
+            "image": "classic-animal-onesies-2"
+        },
+        {
+            "name": "Sunset Shimmer",
+            "size": "15mm Satin Champagne Foil",
+            "description": "The second in our galaxy series! The background is a beautiful mix of pale pinks, oranges, peaches and yellows.",
+            "image": "sunset-shimmer"
+        },
+        {
+            "name": "Stitch & Friends",
+            "size": "15mm Scrump Blue Foil",
+            "description": "Foil is a pretty blue colour that matches scrump! The letters OHANA are sprinkled in the background as a fun detail.",
+            "image": "stitch-friends"
+        },
+        {
+            "name": "Princess Party",
+            "size": "15mm Holo Foil",
+            "description": "I definitely want to bring back a revamped version one day! This roll features 15 princesses on a fun, colourful gradient background.",
+            "image": "princess-party"
+        },
+        {
+            "name": "Winter Critters",
+            "size": "15mm Holographic Foil",
+            "description": "The second in our seasonal series! A beautiful pale blue with little foiled snowflake detailing.",
+            "image": "winter-critters"
+        },
+        {
+            "name": "Fall Critters 1.0",
+            "size": "15mm Satin Champagne Foil",
+            "description": "The beginning of our seasonal series! A beautiful orange to peach gradient with little foiled leaf detailing.",
+            "image": "fall-critters-1.0"
+        },
+        {
+            "name": "Rainbow Onesies",
+            "size": "15mm Satin Pink Foil",
+            "description": "A super colourful roll for my 19th birthday sale event! Just looking at this roll makes me super happy :) The background is a perfect mid-tone Rainbow gradient.",
+            "image": "rainbow-onesies"
+        },
+        {
+            "name": "Twinkle Twinkle",
+            "size": "15mm Silver Foil",
+            "description": "The beginning of our galaxy series! The background is a soft blend of blues, pinks, purples and white. Littered with foiled stars, clouds, and magical specks!",
+            "image": "twinkle-twinkle"
+        },
+        {
+            "name": "Lavender Gradient Emotis",
+            "size": "15mm Pink Foil",
+            "description": "Dabbling into some non-traditional foil colours! This simple design matches so many of my purple/pink spreads so I use it very often!",
+            "image": "lavender-gradient-emotis"
+        },
+        {
+            "name": "Winnie & Friends 1.0",
+            "size": "15mm Satin Champagne Foil",
+            "description": "Taking our brand growth into account, I believe this is our bestselling washi tape! Rightfully so as Winnie the Pooh holds a very special place in my childhood.",
+            "image": "winnie-friends-1.0"
+        },
+        {
+            "name": "Anniversary Pink Onesies",
+            "size": "15mm Silver Foil",
+            "description": "Our first foiled washi tape! This roll was originally released for our anniversary event, then later brought back for a washi preorder.",
+            "image": "anniversary-pink-onesies"
+        }
+    ],
+    "2018": [
+        {
+            "name": "Winter Mint Emotis",
+            "size": "15mm",
+            "description": "A beautiful blueish colour to compliment Powder Pink! This colour won second place in our preorder poll.",
+            "image": "winter-mint-emotis"
+        },
+        {
+            "name": "Classic Animal Onesies",
+            "size": "15mm",
+            "description": "The first animal onesie washi tape! We had a poll on the Facebook group at the time to vote on the preorder designs, and this pattern won first place by a landslide!",
+            "image": "classic-animal-onesies"
+        },
+        {
+            "name": "Powder Pink Emotis",
+            "size": "15mm",
+            "description": "The first in our emoti washi series! This roll was originally released for my 18th birthday, then later brought back for (our first) washi preorder.",
+            "image": "powder-pink-emotis"
+        }
+    ],
+    "2017": [
+        {
+            "name": "OG Mint Emoti Heads",
+            "size": "15mm",
+            "description": "Our first ever washi tape! This is a rare one to come across as we produced only around 100. The background is a pale mint with white polka dots.",
+            "image": "og-mint-emoti-heads"
+        }
+    ]
+}
