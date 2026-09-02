@@ -18,7 +18,7 @@ const items = computed((): Item[] => {
         .map(function (v) {
             return {
                 ...v,
-                count: collection.value[props.group].find((i) => i.name === v.name)?.count ?? 0
+                count: collection.value[props.group]?.find((i) => i.name === v.name)?.count ?? 0
             }
         })
 })

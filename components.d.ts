@@ -11,12 +11,8 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
-    Collection: typeof import('./src/components/Tabs/Collection.vue')['default']
     CollectionGroup: typeof import('./src/components/Tabs/YourCollection/CollectionGroup.vue')['default']
-    CollectionItem: typeof import('./src/components/Tabs/CollectionItem.vue')['default']
     Header: typeof import('./src/components/Header/Header.vue')['default']
-    HeaderSection: typeof import('./src/components/HeaderSection.vue')['default']
-    Item: typeof import('./src/components/Tabs/Item/Item.vue')['default']
     ItemFilters: typeof import('./src/components/Tabs/Item/ItemFilters.vue')['default']
     ItemList: typeof import('./src/components/Tabs/Item/ItemList.vue')['default']
     ItemView: typeof import('./src/components/Tabs/Item/ItemView.vue')['default']
@@ -35,7 +31,6 @@ declare module 'vue' {
     PrimeTag: typeof import('primevue/tag')['default']
     TabContent: typeof import('./src/components/Tabs/TabContent.vue')['default']
     Tabs: typeof import('./src/components/Tabs/Tabs.vue')['default']
-    TabsList: typeof import('./src/components/Tabs/TabsList.vue')['default']
     ToggleDark: typeof import('./src/components/Utilities/ToggleDark.vue')['default']
     YourCollection: typeof import('./src/components/Tabs/YourCollection/YourCollection.vue')['default']
   }

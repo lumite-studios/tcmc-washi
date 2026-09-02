@@ -4,7 +4,7 @@ import YourCollection from './YourCollection/YourCollection.vue'
 import TabContent from './TabContent.vue'
 import { tabs } from './tabs'
 
-const currentTab = useStorage<string>('currentTab', 'collection')
+const currentTab = useStorage<string>('currentTab', 'washiTape')
 </script>
 
 <template>
