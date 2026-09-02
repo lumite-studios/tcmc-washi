@@ -8,6 +8,10 @@ export const tabs = [
         data: 'washiTape',
     },
     {
+        title: 'Stickers',
+        data: 'stickers',
+    },
+    {
         title: 'Vellum',
         data: 'vellum',
     }
