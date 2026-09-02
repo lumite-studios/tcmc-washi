@@ -1,4 +1,6 @@
 import vue from '@vitejs/plugin-vue'
+import { PrimeVueResolver } from '@primevue/auto-import-resolver'
+import Components from 'unplugin-vue-components/vite'
 import { fileURLToPath } from 'url'
 import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
@@ -7,6 +9,15 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
     base: '/tcmc-washi/',
     plugins: [
+        Components({
+            resolvers: [
+                PrimeVueResolver({
+                    components: {
+                        prefix: 'Prime'
+                    }
+                })
+            ]
+        }),
         tailwindcss(),
         vue()
     ],
