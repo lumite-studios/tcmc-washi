@@ -11,7 +11,7 @@ const props = defineProps<{
 }>()
 
 const collection = useStorage<Collection>('collection', {})
-const slugCollection = ref<Item[]>(collection.value[props.group] ?? [])
+// const slugCollection = ref<Item[]>(collection.value[props.group] ?? [])
 const visible = ref<boolean>(false)
 
 /**
@@ -23,12 +23,14 @@ const addItem = (): void => {
     if(collectionItem) {
         collectionItem.count = (collectionItem.count ?? 0) + 1
     } else {
-        slugCollection.value.push({
+        if(!Object.hasOwn(collection.value, props.group)) {
+            collection.value[props.group] = []
+        }
+        collection.value[props.group].push({
             ...props.item,
             count: 1
         })
     }
-    collection.value[props.group] = slugCollection.value
 }
 /**
  * Check if an item already exists in the collection.
@@ -36,7 +38,7 @@ const addItem = (): void => {
  * @returns {boolean}
  */
 const getItem = (item: Item): Item|null => {
-    return slugCollection.value.find((i) => i.name === item.name) ?? null
+    return collection.value[props.group]?.find((i) => i.name.toLowerCase() === item.name.toLowerCase()) ?? null
 }
 /**
  * Remove an item from the collection.
@@ -47,7 +49,6 @@ const removeItem = (): void => {
     if(collectionItem) {
         collectionItem.count = (collectionItem.count ?? 0) - 1
     }
-    collection.value[props.group] = slugCollection.value
 }
 </script>
 
