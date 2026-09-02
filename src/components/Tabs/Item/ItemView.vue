@@ -103,7 +103,7 @@ const removeItem = (): void => {
         <div class="p-1">
             <div class="font-medium">{{ item.name }}</div>
             <div class="text-xs opacity-60">{{ item.additional }}</div>
-            <div class="flex mt-1 gap-1" v-if="item.tags">
+            <div class="flex flex-wrap mt-1 gap-1" v-if="item.tags">
                 <PrimeTag
                     v-for="tag in item.tags"
                     :key="tag"
