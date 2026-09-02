@@ -3,6 +3,7 @@ import { computed, ref } from 'vue'
 import type { Item, Filters, Pagination } from '@/components/Tabs/Item/item'
 import { default as ItemView } from '@/components/Tabs/Item/ItemView.vue'
 import { default as ItemFilters } from '@/components/Tabs/Item/ItemFilters.vue'
+import { camelCaseToTitleCase } from '@/composables/useString'
 
 const props = withDefaults(defineProps<{
     group: string
@@ -51,11 +52,16 @@ const tags = computed((): string[] => {
 
 <template>
     <div class="flex flex-col gap-2">
-        <ItemFilters
-            :filters="filters"
-            :hide-state-filter="hideStateFilter"
-            :tags="tags"
-        />
+        <div class="flex justify-between">
+            <div>
+                <span class="font-bold">{{ `Total ${camelCaseToTitleCase(group)}:` }}</span> {{ items.length }}
+            </div>
+            <ItemFilters
+                :filters="filters"
+                :hide-state-filter="hideStateFilter"
+                :tags="tags"
+            />
+        </div>
         <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-2">
             <ItemView
                 v-for="(item, index) in paginatedItems"

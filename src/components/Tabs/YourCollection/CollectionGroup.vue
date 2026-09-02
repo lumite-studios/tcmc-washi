@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import { default as ItemList } from '@/components/Tabs/Item/ItemList.vue'
 import type { Item } from '@/components/Tabs/Item/item'
+import { camelCaseToTitleCase } from '@/composables/useString'
 
 const props = defineProps<{
     items: Item[]
@@ -13,8 +14,7 @@ const filteredItems = computed(() => {
         .filter((v) => v.count! > 0)
 })
 const title = computed((): string => {
-    const spaces = props.name.replace(/([A-Z])/g, " $1")
-    return spaces.charAt(0).toUpperCase() + spaces.slice(1)
+    return camelCaseToTitleCase(props.name)
 })
 </script>
 

@@ -1,11 +1,308 @@
 [
     {
-        "name": "",
-        "additional": "",
-        "description": "",
-        "image": "washi-tape/",
+        "name": "Fountain Pen Doodles 2.0",
+        "additional": "10mm",
+        "description": "WonderPens x TheCoffeeMonsterzCo A fountain pen is a tool for the fountain of expression! This washi tape is for all you fountain pen lovers!",
+        "image": "washi-tape/wonder-pens-2024",
         "tags": [
-            "2023-subscription"
+            "2024"
+        ]
+    },
+    {
+        "name": "Ink Bottle Doodles 2.0",
+        "additional": "10mm",
+        "description": "The folks at WonderPens hosted me for a series of workshops in Toronto, and this set of washi was part of the event!",
+        "image": "washi-tape/wonder-pens-2024",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Cozy Cat Doodles 2.0",
+        "additional": "10mm",
+        "description": "The folks at WonderPens hosted me for a series of workshops in Toronto, and this set of washi was part of the event!",
+        "image": "washi-tape/wonder-pens-2024",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Fountain Pen Emotis 2.0",
+        "additional": "15mm Silver Foil",
+        "description": "The folks at WonderPens hosted me for a series of workshops in Toronto, and this set of washi was part of the event!",
+        "image": "washi-tape/fountain-pen-emotis-2.0",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Silly Birds",
+        "additional": "15mm",
+        "description": "Emotis getting their ducks and chickens and geese in a row!",
+        "image": "washi-tape/silly-birds",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Cozy Christmas 2.0",
+        "additional": "15mm Silver Foil",
+        "description": "Emotis are getting into the holiday spirits! This version of the Cozy Christmas design features some holly jolly emotis on a white & green striped background.",
+        "image": "washi-tape/cozy-christmas-2.0",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Holly Jolly Textiles",
+        "additional": "20mm",
+        "description": "There's no better way to spread festive cheer than with this holly jolly holiday washi tape! A great design for layering and decorating Christmas cards!",
+        "image": "washi-tape/holly-jolly-textiles",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Winter Doodles",
+        "additional": "10mm Periwinkle Foil",
+        "description": "A roll of cute doodles that scream winter! I hope to get around to designing the other seaasons soon!",
+        "image": "washi-tape/winter-doodles",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Chinese Zodiac Emotis",
+        "additional": "15mm Lucky Gold Foil",
+        "description": "I wanted our first zodiac washi to be on a pink background so that it could match more spreads! I do hope to release a bright red version in the future :)",
+        "image": "washi-tape/chinese-zodiac-emotis",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Lunar Skies",
+        "additional": "15mm Silver Foil",
+        "description": "Sweet emotis playing among the lunar sky! A perfect compliment to a Lunar New Year spread.",
+        "image": "washi-tape/lunar-skies",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Spooky Bookshelf",
+        "additional": "1\" Silver Foil",
+        "description": "Oh no! This abandoned bookshelf has been overrun by mischievous emotis. Make sure to dust the books and check for any cobwebs...",
+        "image": "washi-tape/spooky-bookshelf",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Midnight Magic",
+        "additional": "15mm Silver Foil",
+        "description": "A bold addition to our galaxy series! Most emotis are nocturnal creatures...",
+        "image": "washi-tape/midnight-magic",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Stunning Sunrise",
+        "additional": "15mm Silver Foil",
+        "description": "A stunning addition to our galaxy series! This washi tape captures the serene moment before the day starts.",
+        "image": "washi-tape/stunning-sunrise",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Sunset Shimmer",
+        "additional": "15mm Light Gold Foil",
+        "description": "A bold galaxy design to capture the breathtaking sunsets we get to see each day.",
+        "image": "washi-tape/sunset-shimmer-3.0",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Desk Clutter",
+        "additional": "13mm",
+        "description": "A snapshot of a stationery nerd's desk! Books, journals, pens and washi tapes scattered throughout. Nevermind the emotis being bothersome, as usual...",
+        "image": "washi-tape/desk-clutter",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Pens & Pencils",
+        "additional": "12mm",
+        "description": "A must-have for any stationery lover! Vertical washis are great to use for time-blocking or as dividers on a page.",
+        "image": "washi-tape/pens-and-pencils",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Working Time 3.0",
+        "additional": "15mm Dark Grey Foil",
+        "description": "These emotis look a bit stressed! The perfect roll to mark productive work days.",
+        "image": "washi-tape/working-time-3.0",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Stitch & Friends 2.0",
+        "additional": "15mm Silver Foil",
+        "description": "We have gotten so many requests over the years to bring back these cuties! Now on a pale blue background.",
+        "image": "washi-tape/stitch-and-friends-2.0",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Opalescent Oceans",
+        "additional": "18mm Silver Foil",
+        "description": "A spin-off of the The Four Biomes washi! This roll is littered with critters and it matches our Just Keep Swimming collection",
+        "image": "washi-tape/opalescent-oceans",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "A Rainbow Neighbourhood",
+        "additional": "15mm",
+        "description": "An extra special roll as all proceeds will be donated to Rainbow Railroad as part of our annual Pride month fundraiser! We have previously donated to RR but it was several years ago and I think we can raise a bit more this time! RR is a non-profit organization that works to bring LGBTQIA+ folks in imminent danger to safety.",
+        "image": "washi-tape/a-rainbow-neighbourhood",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Whimsical Woods",
+        "additional": "18mm Brown Foil",
+        "description": "A spin-off of the The Four Biomes washi! This roll is littered with critters and it matches our Out of the Woods collection perfectly!",
+        "image": "washi-tape/whimsical-woods",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Little Sprouts",
+        "additional": "10mm",
+        "description": "These emotis are sprouting just in time for spring & summer! Add a touch of cuteness to the bottom of your planner pages, or to mark gardening activities!",
+        "image": "washi-tape/little-sprouts",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Mountains & Meadows 2.0",
+        "additional": "15mm",
+        "description": "The first version is a customer favourite so I'm super pleased to bring out a second version! Differences are: the sky is white instead of blue, the scenery has been extended, no foil, and I used a warmer colour palette. You might also find an emoti lurking throughout the roll...",
+        "image": "washi-tape/mountains-and-meadows-2.0",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Fruity Fun",
+        "additional": "15mm Rose Gold Foil",
+        "description": "The Fruits & Veggies washi from our 2022 advent is one of my favourites so I had to do a fruits spin-off! All of the fruits are arranged in rainbow order, stamped on a fun warm yellow that just screams summer!",
+        "image": "washi-tape/fruity-fun",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Shopping Spree",
+        "additional": "15mm Gold Foil",
+        "description": "If you are visiting this site, this washi tape probably applies to you 😉 Featuring emotis grocery shopping, making online purchases, and splurging on some treats!",
+        "image": "washi-tape/shopping-spree",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Planning Time 2.0",
+        "additional": "15mm Champagne Foil",
+        "description": "Our Planning Time washi series is one of our most loved designs! Perfect for any planner & stationery lovers. Let us know what colours we should do next!",
+        "image": "washi-tape/planning-time-2.0",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Subtle Storm",
+        "additional": "15mm Silver Foil",
+        "description": "Continuing our galaxy series, we have this muted light grey version! I think this can be used both for happy days and gloomy days.",
+        "image": "washi-tape/subtle-storm",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Classic Animal Onesies 3.0",
+        "additional": "15mm Matte Purple Foil",
+        "description": "",
+        "image": "washi-tape/classic-animal-onesies-3.0",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Classic Vertical Emotis",
+        "additional": "12mm",
+        "description": "I don't use vertical washi tapes too often, but they come in handy as dividers or for time-blocking!",
+        "image": "washi-tape/classic-vertical-emotis",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Classic Emotis 2.0",
+        "additional": "15mm",
+        "description": "A simple emoti design that matches any spread. These happy guys always make me smile :)",
+        "image": "washi-tape/classic-emotis-2.0",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Twinkle Twinkle Glitter",
+        "additional": "15mm Silver Foil",
+        "description": "A reproduction from 2020, but on a special glitter material! This glitter doesn't shed and it has a sandy texture.",
+        "image": "washi-tape/twinkle-twinkle-glitter",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Winnie & Friends 1.1",
+        "additional": "15mm Light Gold Foil",
+        "description": "While this version has slight changes from 1.0 released in 2020, I didn't feel it was enough to be considered 2.0.",
+        "image": "washi-tape/winnie-and-friends-1.1",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Breaking News",
+        "additional": "20mm",
+        "description": "This washi tape is perfect for layering! Last chance to grab this new issue of TCMC TIMES!",
+        "image": "washi-tape/breaking-news",
+        "tags": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Happy Hobbies",
+        "additional": "15mm Silver Foil",
+        "description": "If your hobby is collecting hobbies, this washi is perfect for you! Art, gaming, spending time outdoors--emotis do it all!",
+        "image": "washi-tape/happy-hobbies",
+        "tags": [
+            "2024"
         ]
     },
     {
@@ -87,6 +384,69 @@
         "image": "washi-tape/night-sky",
         "tags": [
             "2023-subscription"
+        ]
+    },
+    {
+        "name": "Planner Supplies 2.0",
+        "additional": "1\" Silver Foil",
+        "description": "[incorrect image] A staple in any stationery lover's collection! Featuring doodles of some popular planners, notebooks, pens, and stationery goodies with emotis scattered throughout.",
+        "image": "washi-tape/planner-supplies-2.0",
+        "tags": [
+            "2023"
+        ]
+    },
+    {
+        "name": "Floral Forest 2.0",
+        "additional": "15mm",
+        "description": "[incorrect image] A whimsical roll of floral emoti washi tape! The background is a really pale purple to compliment the pink of our first version. This roll is dedicated to the SGS Orlando Planner Conference.",
+        "image": "washi-tape/floral-forest",
+        "tags": [
+            "2023"
+        ]
+    },
+    {
+        "name": "Ice Town",
+        "additional": "15mm Frosty White Foil",
+        "description": "A gorgeous scenery of a secluded ice town. Emotis skating about and living their peaceful lives... until... you see it in person... ;)",
+        "image": "washi-tape/ice-town",
+        "tags": [
+            "2023"
+        ]
+    },
+    {
+        "name": "Winter Critters 2.0",
+        "additional": "15mm Frosty White Foil",
+        "description": "[incorrect image] The second in our seasonal series! A beautiful pale blue with little foiled snowflake detailing.",
+        "image": "washi-tape/winter-critters",
+        "tags": [
+            "2023"
+        ]
+    },
+    {
+        "name": "Pumpkin Patch",
+        "additional": "15mm Brown Foil",
+        "description": "There seems to be another creature trying to blend in with the emotis... The perfect washi to match any autumnal spread!",
+        "image": "washi-tape/pumpkin-patch",
+        "tags": [
+            "2023"
+        ]
+    },
+    {
+        "name": "Tea Time 2.0",
+        "additional": "15mm Light Gold Foil",
+        "description": "[incorrect image] Green, black, herbal--so many kinds of tea! This roll features some tea time emotis, ready to dip some biscuits.",
+        "image": "washi-tape/tea-time",
+        "tags": [
+            "2023"
+        ]
+    },
+    {
+        "name": "Coffee Time 2.0",
+        "additional": "15mm Brown Foil",
+        "description": "[incorrect image] The tired emoti is such a mood! This is the perfect washi for a coffee enthusiast, or just someone who needs a strong cup to get through the day.",
+        "image": "washi-tape/coffee-time",
+        "tags": [
+            "2023"
         ]
     },
     {
@@ -334,8 +694,8 @@
     },
     {
         "name": "Fountain Pen Doodles",
-        "additional": "WonderPens x TheCoffeeMonsterzCo A fountain pen is a tool for the fountain of expression! This washi tape is for all you fountain pen lovers!",
-        "description": "10mm",
+        "additional": "10mm",
+        "description": "WonderPens x TheCoffeeMonsterzCo A fountain pen is a tool for the fountain of expression! This washi tape is for all you fountain pen lovers!",
         "image": "washi-tape/fountain-pen-doodles",
         "tags": [
             "2022"
@@ -477,7 +837,7 @@
         ]
     },
     {
-        "name": "Sleepy Time Doodles",
+        "name": "Sleepy Doodles",
         "additional": "10mm",
         "description": "How adorable are these little doodles? Perfect for marking a rest day. This roll features a jumping sheep, alarm clock, drooling emoti, bed time story, a cute pillow, clouds, a teddy bear emoti, and some magical stars.",
         "image": "washi-tape/sleepy-time-doodles",
@@ -535,6 +895,15 @@
         "additional": "7mm",
         "description": "Our first vertical washi design! This is perfect as decorative borders or making bulleted lists. The 7mm width is not too thin to ensure the design is still visible, but not too thick that it gets in the way of your writing!",
         "image": "washi-tape/vertical-emoti-heads",
+        "tags": [
+            "2021"
+        ]
+    },
+    {
+        "name": "Working Emotis 2.0",
+        "additional": "15mm Silver Foil",
+        "description": "[incorrect image] Oh no, these emotis are stressed from work! A gloomier design for a week when you're overwhelmed with things to do...",
+        "image": "washi-tape/working-emotis",
         "tags": [
             "2021"
         ]
@@ -621,10 +990,10 @@
         ]
     },
     {
-        "name": "Planning Time 1.0",
+        "name": "Planning Time",
         "additional": "15mm Rose Gold Foil",
         "description": "This is the perfect washi for any planner or stationery lover! Featuring an emoti with happy mail, pencil, stickers, planner, and of course washi tapes. The background is a pale pink.",
-        "image": "washi-tape/planning-time-1.0",
+        "image": "washi-tape/planning-time",
         "tags": [
             "2021"
         ]
@@ -648,10 +1017,10 @@
         ]
     },
     {
-        "name": "Book Nerd 1.0",
+        "name": "Book Nerd",
         "additional": "15mm",
         "description": "DAY 9: I cant think of a more perfect washi for book worms! There is a faint message written in the background... can you make it out?!",
-        "image": "washi-tape/book-nerd-1.0",
+        "image": "washi-tape/book-nerd",
         "tags": [
             "2020-advent"
         ]
@@ -675,10 +1044,10 @@
         ]
     },
     {
-        "name": "Snail Mail Doodles 1.0",
+        "name": "Snail Mail Doodles",
         "additional": "10mm",
         "description": "DAY 5: The perfect washi to use on penpal letters or sending happy mail to your planner friends~",
-        "image": "washi-tape/snail-mail-doodles-1.0",
+        "image": "washi-tape/snail-mail-doodles",
         "tags": [
             "2020-advent"
         ]
@@ -743,7 +1112,8 @@
         "description": "The third in our galaxy series. A mix of mid-tone purples, blues and hints of pink!",
         "image": "washi-tape/interstellar",
         "tags": [
-            "2020"
+            "2020",
+            "2024"
         ]
     },
     {
@@ -855,10 +1225,10 @@
         ]
     },
     {
-        "name": "Fall Critters 1.0",
+        "name": "Fall Critters",
         "additional": "15mm Satin Champagne Foil",
         "description": "The beginning of our seasonal series! A beautiful orange to peach gradient with little foiled leaf detailing.",
-        "image": "washi-tape/fall-critters-1.0",
+        "image": "washi-tape/fall-critters",
         "tags": [
             "2019"
         ]
@@ -891,10 +1261,10 @@
         ]
     },
     {
-        "name": "Winnie & Friends 1.0",
+        "name": "Winnie & Friends",
         "additional": "15mm Satin Champagne Foil",
         "description": "Taking our brand growth into account, I believe this is our bestselling washi tape! Rightfully so as Winnie the Pooh holds a very special place in my childhood.",
-        "image": "washi-tape/winnie-friends-1.0",
+        "image": "washi-tape/winnie-friends",
         "tags": [
             "2019"
         ]
